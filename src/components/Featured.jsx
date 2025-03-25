@@ -47,7 +47,7 @@ function Featured() {
           <div  className="card w-full h-[300px] flex items-center rounded-xl overflow-hidden">
             <img
               className="w-full h-auto object-cover hover:scale-105 transition-all"
-              src="\src\assets\images\c1.png"
+              src="/src/assets/images/c1.png"
               alt="featured"
             />
           </div>
@@ -77,7 +77,7 @@ function Featured() {
           <div className="card w-full h-[300px] flex items-center rounded-xl overflow-hidden">
             <img
               className="w-full h-auto object-cover hover:scale-105 transition-all"
-              src='\src\assets\images\c2.png'
+              src='/src/assets/images/c2.png'
               alt="featured"
             />
           </div>
