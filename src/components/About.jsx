@@ -11,7 +11,7 @@ function About() {
     >
       <div className="container w-full">
         <h1 className="sm:text-3xl text-xl sm:leading-normal font-medium mb-10 border-b-[1px] border-zinc-700 pb-10">
-          Thoughts Big is a strategic partner for fast-grow­ing tech businesses that
+          Coders Ping is a strategic partner for fast-grow­ing tech businesses that
           need to raise funds, sell products, explain complex ideas, and hire
           great people.
         </h1>
@@ -19,7 +19,7 @@ function About() {
           <div className="about-text h-fit">
             <h1 className="text-4xl mb-4">Our approach:</h1>
             <p className="text-base sm:text-xl text-zinc-200 tracking-wide">
-              Our approach at Thoughts Big is tailored to empower fast-growing tech
+              Our approach at Coders Ping is tailored to empower fast-growing tech
               businesses by facilitating fundraising, product sales, simplifying
               complex concepts, and enabling effective talent acquisition.
             </p>

@@ -30,7 +30,7 @@ function Footer() {
             )}
           </div>
           <div className="flex justify-between font-NueueMontreal">
-            <p>© THOUGHTS BIG 2025.</p>
+            <p>© Coders Ping 2025.</p>
             <p>Website by Anonymous Buzzz</p>
           </div>
         </div>

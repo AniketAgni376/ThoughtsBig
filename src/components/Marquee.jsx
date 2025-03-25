@@ -16,7 +16,7 @@ function Marquee() {
           transition={{ ease: "linear", repeat: Infinity, duration: 5 }}
           className="font-FoundersGroteskCondensed mb-[3vw] pr-4"
         >
-          We are Thoughts Big ◦
+          We are Coders Ping ◦
         </motion.h1>
         <motion.h1
           initial={{ x: 0 }}
@@ -24,7 +24,7 @@ function Marquee() {
           transition={{ ease: "linear", repeat: Infinity, duration: 5 }}
           className="font-FoundersGroteskCondensed mb-[3vw] pr-4"
         >
-          We are Thoughts Big ◦
+          We are Coders Ping ◦
         </motion.h1>
         <motion.h1
           initial={{ x: 0 }}
@@ -32,7 +32,7 @@ function Marquee() {
           transition={{ ease: "linear", repeat: Infinity, duration: 5 }}
           className="font-FoundersGroteskCondensed mb-[3vw]"
         >
-          We are Thoughts Big ◦
+          We are Coders Ping ◦
         </motion.h1>
       </div>
     </div>
