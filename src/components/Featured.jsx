@@ -2,6 +2,8 @@ import { motion, useAnimation } from "framer-motion";
 import React from "react";
 import { FaArrowUpLong } from "react-icons/fa6";
 
+
+
 function Featured() {
   // array to animate two cards
   const cards = [useAnimation(), useAnimation()];
@@ -47,7 +49,7 @@ function Featured() {
           <div  className="card w-full h-[300px] flex items-center rounded-xl overflow-hidden">
             <img
               className="w-full h-auto object-cover hover:scale-105 transition-all"
-              src='/public/asset/c1.png'
+              src='https://i.postimg.cc/FFCDsyJX/c1.png'
               alt="featured"
             />
           </div>
@@ -77,7 +79,7 @@ function Featured() {
           <div className="card w-full h-[300px] flex items-center rounded-xl overflow-hidden">
             <img
               className="w-full h-auto object-cover hover:scale-105 transition-all"
-              src='/public/asset/c2.png'
+              src='https://i.postimg.cc/hGwVRr52/c2.png'
               alt="featured"
             />
           </div>
